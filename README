@@ -1,0 +1,17 @@
+hw2: 3D Scene
+
+Vahid Mahdavi Mazdeh
+CSCI4229/5229 Fall 2014
+
+A 3D scene of the Pyramids of Giza. The first and the oldest of the seven World Wonders, coded in c for OpenGL, that took me about 3 hours to finish.
+
+I did not use any of the GLUT canned objects.
+
+Key bindings
+  m          Toggle between perspective and orthogonal
+  +/-        Changes field of view for perspective
+  a          Toggle axes
+  arrows     Change view angle
+  y/h 	     Zoom in and out
+  0          Reset view angle
+  ESC        Exit
